@@ -1,6 +1,6 @@
 # CME Topics
 
-[Dengue Fever](https://drive.google.com/file/d/1YI5FYZIyeZ8Nv6ADuy3fCS0usXai0b2D/view?usp=sharing)
+[Dengue Fever](https://drive.google.com/file/d/1Vx4Sep6tFgQ9H_5gjXMPsLkmMECdN962/view?usp=sharing)
 
 
 ```markdown
