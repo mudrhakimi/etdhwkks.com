@@ -1,7 +1,7 @@
 # CME Topics
 
 ## 2018
-[Month|Topics
+Month|Topics
 ---------------------------------------------------------------------|------------------------------------------------
 January|l
 February|l
@@ -14,4 +14,4 @@ August|[![Dengue Fever](DFTN.PNG)](https://drive.google.com/file/d/1Vx4Sep6tFgQ9
 September|l
 October|l
 November|l
-December|l]
+December|l
