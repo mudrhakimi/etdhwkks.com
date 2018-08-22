@@ -1,6 +1,9 @@
 # CME Topics
 
-[Dengue Fever](https://drive.google.com/file/d/1Vx4Sep6tFgQ9H_5gjXMPsLkmMECdN962/view?usp=sharing)
+Month|Topics
+-----|-----
+August|[Dengue Fever](https://drive.google.com/file/d/1Vx4Sep6tFgQ9H_5gjXMPsLkmMECdN962/view?usp=sharing)
+September|
 
 
 ```markdown
