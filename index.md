@@ -10,7 +10,7 @@ April|l
 May|l
 June|l
 July|l
-August|[![Dengue Fever](DFTN.PNG)](https://drive.google.com/file/d/1Vx4Sep6tFgQ9H_5gjXMPsLkmMECdN962/view?usp=sharing)
+August|[![Dengue Fever](DFTN.PNG)](Dengue Fever - ETD HWKKS.pdf)
 September|l
 October|l
 November|l
