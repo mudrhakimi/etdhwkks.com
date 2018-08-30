@@ -2,7 +2,7 @@
 ------------------------------------
 	Riddle - Portfolio
 	Version: 1.0
- ------------------------------------ 
+ ------------------------------------
  ====================================*/
 
 
@@ -10,11 +10,11 @@
 'use strict';
 
 
-$(window).on('load', function() { 
+$(window).on('load', function() {
 	/*------------------
 		Preloder
 	--------------------*/
-	$(".loader").fadeOut(); 
+	$(".loader").fadeOut();
 	$("#preloder").delay(400).fadeOut("slow");
 
 	if($('.portfolios-area').length > 0 ) {
@@ -69,7 +69,7 @@ $(window).on('load', function() {
 	/*------------------
 		Popup
 	--------------------*/
-	$('.portfolio-item').magnificPopup({
+	$('.portfolio-items').magnificPopup({
 		type: 'image',
 		mainClass: 'img-popup-warp',
 		removalDelay: 400,
