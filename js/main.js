@@ -69,8 +69,7 @@ $(window).on('load', function() {
 	/*------------------
 		Popup
 	--------------------*/
-	$('.portfolio-popup').magnificPopup({
-		type: 'image',
+	$('.portfolio-item').magnificPopup({
 		mainClass: 'img-popup-warp',
 		removalDelay: 400,
 	});
